@@ -1,0 +1,15 @@
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/bin/Debug/net7.0/WebAPIClient
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/bin/Debug/net7.0/WebAPIClient.deps.json
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/bin/Debug/net7.0/WebAPIClient.runtimeconfig.json
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/bin/Debug/net7.0/WebAPIClient.dll
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/bin/Debug/net7.0/WebAPIClient.pdb
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.AssemblyReference.cache
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.AssemblyInfoInputs.cache
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.AssemblyInfo.cs
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.csproj.CoreCompileInputs.cache
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.dll
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/obj/Debug/net7.0/refint/WebAPIClient.dll
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.pdb
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/obj/Debug/net7.0/WebAPIClient.genruntimeconfig.cache
+/Users/TakakoOnozuka/Desktop/CSharp_DotNet/microsoft/RestClient/WebAPIClient/obj/Debug/net7.0/ref/WebAPIClient.dll
